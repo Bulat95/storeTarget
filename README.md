@@ -1,0 +1,2 @@
+# storeTarget
+project in Spring
